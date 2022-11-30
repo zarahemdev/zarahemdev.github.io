@@ -1,0 +1,29 @@
+.bgtop{
+background-image: url(AMBG.jpg);
+background-attachment: fixed;
+
+}
+
+.text{
+ color: aliceblue;
+ font-size: x-large;
+
+}
+
+.images{
+    padding:15px;
+    
+    }
+    
+    .branding{
+    background-image: url(4.jpg);
+    background-attachment: fixed;
+    
+    }
+
+    form{    
+    font-size: x-large;
+    color: rgb(121, 121, 121);    
+    background-image: url(Cat.png);
+
+    }
